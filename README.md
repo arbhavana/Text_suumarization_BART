@@ -22,3 +22,6 @@ The goal of this project is to create an API that can summarize any given text. 
 ```bash
 git clone https://github.com/arbhavana/Text_suumarization_BART.git
 cd Text_suumarization_BART
+python main.py
+'''
+#The API will be accessible at http://localhost:5000
