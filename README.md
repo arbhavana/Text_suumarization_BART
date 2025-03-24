@@ -1,4 +1,4 @@
-# Text_Summarization_BART
+
 # Text Summarization with BART
 
 This project demonstrates an **abstractive text summarization** system using the **BART** (Bidirectional and Auto-Regressive Transformers) model. The model has been fine-tuned to generate concise and coherent summaries from long text inputs.
